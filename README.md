@@ -5,7 +5,6 @@ A simple Python-based database management system project. This repository includ
 ## 📦 Repository Structure
 
 - `app.py` - Entry point for the application (likely starts the UI/CLI or main flow).
-- `main.py` - Main runtime script (may wrap or run the core application logic).
 - `db_init.py` - Initializes the database (creates schema/tables and seeds data).
 - `db_operations.py` - Contains helper functions to perform CRUD operations on the database.
 - `requirements.txt` - Python dependencies required to run the project.
