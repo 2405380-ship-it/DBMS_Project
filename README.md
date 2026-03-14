@@ -27,21 +27,7 @@ git clone https://github.com/2405380-ship-it/DBMS_Project.git
 cd DBMS_Project
 ```
 
-2. Create and activate a virtual environment (recommended):
-
-- Windows (PowerShell):
-  ```powershell
-  python -m venv .venv
-  .\.venv\Scripts\Activate.ps1
-  ```
-
-- macOS/Linux:
-  ```bash
-  python -m venv .venv
-  source .venv/bin/activate
-  ```
-
-3. Install dependencies:
+2. Install dependencies:
 
 ```bash
 pip install -r requirements.txt
